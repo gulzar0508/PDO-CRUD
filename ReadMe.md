@@ -14,9 +14,9 @@ This project demonstrates the basic CRUD operations in the form of processes as
 - Import the database
 - Active internet connection (for CDN js,css dependencies)
 
-## Configuration
+# Configuration
 Modify configurations for your setup from [Config File](includes/config.inc.php)
-# current configuration
+## current configuration
 ```php
 define('SITE_ADDRESS', 'http://localhost/trellis/'); ## HOST URL
 define('DOC_ROOT', 'D:/xampp/htdocs/trellis/'); ## FOLDER LOCATION
@@ -28,13 +28,13 @@ define('DB_PASSWORD', ''); ## DATABASE PASSWORD
 ```
 
 # Credentials for active user
-email: gulgermallik05@gmail.com
-password: gulzar
+- email: gulgermallik05@gmail.com
+- password: gulzar
 
 # Source code
-Google Drive: https://drive.google.com/drive/folders/1hrPeWyVtkf0i-0DiLyPqQ8SlqsNpE_Je?usp=sharing
-Git Hub: https://github.com/gulzar0508/PDO-CRUD.git
+- Google Drive: https://drive.google.com/drive/folders/1hrPeWyVtkf0i-0DiLyPqQ8SlqsNpE_Je?usp=sharing
+- Git Hub: https://github.com/gulzar0508/PDO-CRUD.git
 
 ------
-# Authour	: Gulzar Mallik
-# Email		: gulgermallik05@gmail.com
+Authour	: Gulzar Mallik
+Email	: gulgermallik05@gmail.com
