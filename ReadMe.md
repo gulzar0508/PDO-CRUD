@@ -8,14 +8,14 @@ This project demonstrates the basic CRUD operations in the form of processes as
 - Deletion of user account
 
 # In folder
-[a relative link](/trellis.sql)
+[Import Database](/trellis.sql)
 
 # Dependencies
 - Import the database
 - Active internet connection (for CDN js,css dependencies)
 
 ## Configuration
-Modify configurations for your setup from [a relative link](includes/config.inc.php)
+Modify configurations for your setup from [Config File](includes/config.inc.php)
 # current configuration
 ```php
 define('SITE_ADDRESS', 'http://localhost/trellis/'); ## HOST URL
