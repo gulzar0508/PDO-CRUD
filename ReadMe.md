@@ -1,4 +1,4 @@
-## Basic excerise done useing PDO, PHP, HTML, CSS
+## Basic exercise done using PDO, PHP, HTML, CSS
 This project demonstrates the basic CRUD operations in the form of processes as
 - Registration
 - Login
@@ -32,7 +32,7 @@ define('DB_PASSWORD', ''); ## DATABASE PASSWORD
 - password: gulzar
 
 # Source code
-- Google Drive: https://drive.google.com/drive/folders/1hrPeWyVtkf0i-0DiLyPqQ8SlqsNpE_Je?usp=sharing
+- Google Drive: https://drive.google.com/file/d/1gLd8jRbG5W1XClEMwKPuNmYrX62iz9x5/view?usp=sharing
 - Git Hub: https://github.com/gulzar0508/PDO-CRUD.git
 
 ------
